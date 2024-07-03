@@ -14,4 +14,6 @@ The code ouputs into a folder specified in params_gen.txt a mixture of jld2 and 
 
 To used the Show_Fourier_model.ipynb just change the string path (second section) to the name of the folder that contains the run you want to look at.
 
+CCpol23_data_sd15_15000.txt is the dataset I focused on and got good results with. It is 15000 data points to chose training and testing data from.
+
 Every file should be in the same folder. 
