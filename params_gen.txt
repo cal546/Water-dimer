@@ -1,0 +1,6 @@
+Water_dimer_sd15/1024_4000_1.0e-5# file path to save
+1024                             # number of nodes
+4000                            # number of training points
+2000                            # number of testing points
+100                             # number of epochs to training
+1.0e-5                            # regularization parameter
